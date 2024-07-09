@@ -1,2 +1,2 @@
-# my-first-django-project
+# About my first django project
 This is my first django project on github
